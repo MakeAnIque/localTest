@@ -1,3 +1,0 @@
-HTMLDivElement;
-
-console.log("hello");
