@@ -1,3 +1,1 @@
 HTMLDivElement;
-
-console.log("hello");
